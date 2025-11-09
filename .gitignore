@@ -6,6 +6,9 @@ dist/
 wheels/
 *.egg-info
 frankenstein.txt
+output_train.txt
+output_val.txt
+vocab.txt
 .python-version
 # Virtual environments
 .venv
